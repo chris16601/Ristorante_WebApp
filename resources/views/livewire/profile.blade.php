@@ -23,80 +23,11 @@
                                 </p>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 my-sm-auto ms-sm-auto me-sm-0 mx-auto mt-3 text-sm-end">
-                            <!--<a href="javascript:;" class="btn btn-sm btn-white">Cancel</a>-->
-                            <a href="javascript:;" class="btn btn-sm btn-dark">Save</a>
-                        </div>
                     </div>
                 </div>
             </div>
             <div class="container my-3 py-3">
                 <div class="row">
-                    <div class="col-12 col-xl-4 mb-4">
-                        <div class="card border shadow-xs h-100">
-                            <div class="card-header pb-0 p-3">
-                                <h6 class="mb-0 font-weight-semibold text-lg">Notifications settings</h6>
-                                <p class="text-sm mb-1">Here you can set preferences.</p>
-                            </div>
-                            <div class="card-body p-3">
-                                <h6 class="text-dark font-weight-semibold mb-1">Account</h6>
-                                <ul class="list-group">
-                                    <li class="list-group-item border-0 px-0">
-                                        <div class="form-check form-switch ps-0">
-                                            <input class="form-check-input ms-auto" type="checkbox"
-                                                id="flexSwitchCheckDefault" checked>
-                                            <label class="form-check-label text-body ms-3 text-truncate w-80 mb-0"
-                                                for="flexSwitchCheckDefault">Email me when someone follows me</label>
-                                        </div>
-                                    </li>
-                                    <li class="list-group-item border-0 px-0">
-                                        <div class="form-check form-switch ps-0">
-                                            <input class="form-check-input ms-auto" type="checkbox"
-                                                id="flexSwitchCheckDefault1">
-                                            <label class="form-check-label text-body ms-3 text-truncate w-80 mb-0"
-                                                for="flexSwitchCheckDefault1">Email me when someone answers on my
-                                                post</label>
-                                        </div>
-                                    </li>
-                                    <li class="list-group-item border-0 px-0">
-                                        <div class="form-check form-switch ps-0">
-                                            <input class="form-check-input ms-auto" type="checkbox"
-                                                id="flexSwitchCheckDefault2" checked>
-                                            <label class="form-check-label text-body ms-3 text-truncate w-80 mb-0"
-                                                for="flexSwitchCheckDefault2">Email me when someone mentions me</label>
-                                        </div>
-                                    </li>
-                                </ul>
-                                <h6 class="text-dark font-weight-semibold mt-2 mb-1">Application</h6>
-                                <ul class="list-group">
-                                    <li class="list-group-item border-0 px-0">
-                                        <div class="form-check form-switch ps-0">
-                                            <input class="form-check-input ms-auto" type="checkbox"
-                                                id="flexSwitchCheckDefault3">
-                                            <label class="form-check-label text-body ms-3 text-truncate w-80 mb-0"
-                                                for="flexSwitchCheckDefault3">New launches and projects</label>
-                                        </div>
-                                    </li>
-                                    <li class="list-group-item border-0 px-0">
-                                        <div class="form-check form-switch ps-0">
-                                            <input class="form-check-input ms-auto" type="checkbox"
-                                                id="flexSwitchCheckDefault4" checked>
-                                            <label class="form-check-label text-body ms-3 text-truncate w-80 mb-0"
-                                                for="flexSwitchCheckDefault4">Monthly product updates</label>
-                                        </div>
-                                    </li>
-                                    <li class="list-group-item border-0 px-0 pb-0">
-                                        <div class="form-check form-switch ps-0">
-                                            <input class="form-check-input ms-auto" type="checkbox"
-                                                id="flexSwitchCheckDefault5">
-                                            <label class="form-check-label text-body ms-3 text-truncate w-80 mb-0"
-                                                for="flexSwitchCheckDefault5">Subscribe to newsletter</label>
-                                        </div>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
                     <div class="col-12 col-xl-4 mb-4">
                         <div class="card border shadow-xs h-100">
                             <div class="card-header pb-0 p-3">
